@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/JAST.dir/main.cpp.o CMakeFiles/JAST.dir/JAST.cpp.o CMakeFiles/JAST.dir/FileIO.cpp.o -o JAST 

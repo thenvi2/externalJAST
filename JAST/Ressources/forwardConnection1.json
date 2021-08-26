@@ -1,0 +1,11 @@
+{
+    "big_endian": false,
+    "data_path": "/home/vincent/CLionProjects/JAST/Ressources/forwardConnection1.snn",
+    "format": "forward",
+    "network": {
+        "connections_per_neuron": 3,
+        "nb_inputs": 5,
+        "nb_neurons": 10
+    },
+    "version": 1
+}
